@@ -11,8 +11,8 @@ main:
   # - title: "CV"
   #   url: /files/Resume-Yuvraj-Singh.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Paper Replications"
+    url: /publications/
 
    
 

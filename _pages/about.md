@@ -11,11 +11,11 @@ redirect_from:
 
 
 
-🔭 I’m currently working on Fine-tuning LLMs and QnA Systems
+🔭 I’m currently working on Fine-tuning LLMs andClassic AI/ML Paper Replications
 
-🌱 I’m currently learning about QnA Systems made through Fine tuning LLMs and GenAI
+🌱 I’m currently learning about GANs 
 
-🤝 I’m looking for  Research Intern/MLE/SDE role, preferably in NLP and Computer Vision
+🤝 I’m looking for RE/RS intern or FTE role, preferably in NLP and/or Computer Vision domain
 
 👨‍💻 I also love to connect with people from similar domains and getting them the initial push in the ever growing field of NLP.
 
@@ -43,18 +43,18 @@ Clinical AI Assistance | Research intern |  Dec. 2023 – March 2024
 
 ## 🔭 **Skiils**
 
-* Languages: | C++, Python, Dart
-* Frameworks: | Keras, Flutter, Flask
+* Languages: | C++, Python, Dart, Kotlin
+* Frameworks: | Pytorch, Keras, Flutter, Flask
 * NLP: | RNN, LSTM, Bi-LSTM, Word2Vec, Fasttext, LLMs
 * Machine Learning: | Supervised and Unsupervised Algorithms
 * Deep Learning: | ANN, Seq2Seq (Encoder-Decoder), Autoencoders
-* Computer Vision: | CNN, OpenCV, YOLOv8, Vision Transformer
-* Tools: | Streamlit, Git, Github, HuggingFace API, Firebase, GCP (VM Instances)
-
+* Computer Vision: | OpenCV, CNN, YOLOv8, GANs, Vision Transformer
+* Storage: Firebase
+* Tools: | Streamlit, Langchain, LlamaIndex, Git, Github, HuggingFace API, GCP
 
 ## 🧑‍🎓 **Education**
 
-IIIT Bhubaneswar |  June 2027| BTech Computer Science Engineering | CGPA: 7.94 (1st Semester)
+IIIT Bhubaneswar |  2023 - 2027| BTech Computer Science Engineering 
 
 
 Delhi Public School | 2022-23| CBSE Grade 12 | Percentage: 91
