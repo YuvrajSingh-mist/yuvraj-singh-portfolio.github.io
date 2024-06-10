@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Claasic Paper Replications from Scratch"
 permalink: /publications/
 author_profile: true
 ---
