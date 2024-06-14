@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-🔭 I’m currently working on Fine-tuning LLMs andClassic AI/ML Paper Replications
+🔭 I’m currently working on Fine-tuning LLMs and Classic AI/ML Paper Replications
 
 🌱 I’m currently learning about GANs 
 
