@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Classic Paper Replications from Scratch"
+title: "Classic/SOTA Paper/Architecture Replications from Scratch"
 permalink: /publications/
 author_profile: true
 ---
