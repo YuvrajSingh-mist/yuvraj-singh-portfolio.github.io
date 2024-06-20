@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Classic/SOTA Paper/Architecture Replications from Scratch"
 permalink: /publications/
@@ -13,4 +13,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

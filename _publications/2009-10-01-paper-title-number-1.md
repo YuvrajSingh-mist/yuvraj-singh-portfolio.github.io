@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
@@ -17,4 +17,4 @@ Food101 | 3 (classes - 255 images) | (3 classes - 75 images)
 ### Results
 
 Train loss | Test loss 
-1.20       | 1.52 
+1.20       | 1.52  -->
