@@ -3,6 +3,9 @@ title: "Movies Review System  | Spoiler-Free Sentiment-Analysis based Movies Rev
 collection: talks
 type: "POC"
 permalink: 
+excerpt: "
+Introducing the Movie Review System, where AI meets movie magic to revolutionize how viewers experience films. This project goal is to provide an interface for spoiler-free reviews and sentiment analysis, enhancing the viewing journey. With advanced models like Voting Classifier and Bi-LSTMs powered by Keras and TensorFlow, we achieve impressive metrics—a 91% accuracy, 91% precision, and 90% recall that understands and enhances the users' with the respective movies' plot from a bird's eye view.
+"
 venue: "IIIT"
 date: September '23
 location: "Bhubaneswar"

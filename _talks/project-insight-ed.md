@@ -1,6 +1,9 @@
 ---
 title: "Insight-Ed (HackNITR 5.0) | EdTech Platform for Student and Teacher"
 collection: talks
+excerpt: "
+Imagine an online classroom where teachers instantly know when and why students lose focus. Our AI-powered solution bridges the knowledge gap by detecting student emotions and attentiveness, highlighting problem areas, makes the teacher aware of each student's progress. With features like reverse video search, dynamic questionnaires, and advanced Q&A bots, we transform the learning experience, making it more interactive and insightful. Redefining online education with our model, ensuring every student gets the attention they need, right when they need it.
+"
 type: "Hackathon"
 permalink: 
 venue: "NIT"
@@ -16,7 +19,7 @@ location: "Rourkela"
 
 **Detection of Emotion and Attentiveness of a Student** | Used Transfer Learning on EfficientNetB7 model along with a custom dataset combined with an open-sourced LLMs to capture the same through the recorded lecture which the student attended through the webcam during that session.
 
-T**opic Modelling for Each Segment where Student lost attention** | Through the power of Gemini-Pro SDK and OpenAI Whisper module, each of the segments where the loss of interest is detected is transcribed into text and the most relevant keywords(Topic Modelling) are done to bring out the topics where students need clarification. | The teacher is thus present with an analysis as to when the student lost his/her attention and on which topic(s) through the video lecture
+**Topic Modelling for Each Segment where Student lost attention** | Through the power of Gemini-Pro SDK and OpenAI Whisper module, each of the segments where the loss of interest is detected is transcribed into text and the most relevant keywords(Topic Modelling) are done to bring out the topics where students need clarification. | The teacher is thus present with an analysis as to when the student lost his/her attention and on which topic(s) through the video lecture
 
 **Generation of Different Topics on specified time intervals - Saving Teacher's Time** | This feature allows automatic Generation of Different Topics-Topic Modelling depending on a hyperparameter(time interval) chosen by the teacher exclusively.
 
@@ -38,3 +41,4 @@ T**opic Modelling for Each Segment where Student lost attention** | Through the 
 
 **Other Tools:** | GCP (Cloud Run), Docker, Vercel
 
+[**Project Link**](https://github.com/YuvrajSingh-mist/Insight-Ed)

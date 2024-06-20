@@ -20,6 +20,17 @@ redirect_from:
 👨‍💻 I also love to connect with people from similar domains and getting them the initial push in the ever growing field of NLP.
 
 
+## 🧑‍🎓 **Education**
+
+IIIT Bhubaneswar |  2023 - 2027| BTech Computer Science Engineering 
+
+
+Delhi Public School | 2022-23| CBSE Grade 12 | Percentage: 91
+
+
+Amity International School | 2021-22 | CBSE Grade 10 | Percentage: 96
+
+
 
 ## 👨🏻‍🔬 **Professional Experience**
 
@@ -52,15 +63,6 @@ Clinical AI Assistance | Research intern |  Dec. 2023 – March 2024
 * Storage: Firebase
 * Tools: | Streamlit, Langchain, LlamaIndex, Git, Github, HuggingFace API, GCP
 
-## 🧑‍🎓 **Education**
-
-IIIT Bhubaneswar |  2023 - 2027| BTech Computer Science Engineering 
-
-
-Delhi Public School | 2022-23| CBSE Grade 12 | Percentage: 91
-
-
-Amity International School | 2021-22 | CBSE Grade 10 | Percentage: 96
 
 
 ## 🎖️ **Achievements**

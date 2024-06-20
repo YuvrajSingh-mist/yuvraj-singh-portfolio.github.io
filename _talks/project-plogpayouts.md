@@ -2,13 +2,14 @@
 title: "PlogPayouts | AI-driven Plogging System"
 collection: talks
 type: "Google's Solution Challenge '24"
+excerpt: "Transform your daily jog into a mission for a cleaner world with PlogPayouts. Our innovative website + app rewards you for collecting litter, promoting fitness and environmental cleanliness. Utilizing AI for trash categorization and optimized routes, and fostering community through shared stories, PlogPayouts turns every step into a step towards a greener, more inclusive society. Join us and make a difference today! "
 permalink: 
 venue: "IIIT"
 date: December '23 - March '24
 location: "Bhubaneswar"
 ---
 
-* **Role**: Team Lead + Backend (AI/ML)
+ Team Lead + Backend (AI/ML)
 
 * **Vision/Goal**: We aim to provide not only an idea but also a solution to bring about a small and effective change in the garbage collection process  and  also tacking the social stigma regarding the position and work of garbage collectors as perceived by the society, so as to harbour a more cleaner and greener environment while working together without any social differences.
 
