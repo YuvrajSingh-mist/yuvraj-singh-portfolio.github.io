@@ -22,7 +22,7 @@ location: Bhubaneswar
 
 * **Solution**: Our platform utilizes LLMs and a Mixture of Expert (MoE) approaches to provide precise guidance on soil management, plant disease identification, and irrigation techniques. Built as a scalable web application with a Next.js frontend and backend, and supported by a Redis queue and multiple worker nodes, FarmGenie ensures robust performance. The system’s multilingual support, interactive community forum, and up-to-date knowledge base facilitate seamless, expert-driven assistance for both new and experienced farmers
 
-* **Features** : ### Key Features of FarmGenie
+* **Features** :
 
 - **Seamless Interface**
   - **Website**:
