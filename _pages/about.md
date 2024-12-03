@@ -36,13 +36,14 @@ Amity International School | 2021-22 | CBSE Grade 10 | Percentage: 96
 
 IISER, Kolkata | Research intern | May 2024 – Present
 
-|* Working under Prof. Kripabandhu Ghosh on exploring Fine-tuning LLMs and Using GenAI Models on Medical and Finance Data for QnA
+|* Working under Prof. Kripabandhu Gosh on stance detection of controversial sports events using open source LLMs like Mistral, Llama.
 
 
-AIISC | Research intern | March 2024 – Present
+AIISC | Research intern | March 2024 – Jul 2024
 
-| * Working with Prof. Amitava Das on Prevention of Hallucination in LLMs
-|* Part of the Data Generation Team- Conduct Collecting, performing Data Analysis and reformation to be used by various RL-based models for idea testing.
+| * Worked with Prof. Amitava Das on Prevention of Hallucination in LLMs
+|* Part of the data collection team- Performed web scraping of news articles and posts. Generated synthetic data using various open source LLMs.
+| * Tagged LLM generated synthetic data with entities using GLiNER and other open source models.
 
 
 Clinical AI Assistance | Research intern |  Dec. 2023 – March 2024
@@ -66,6 +67,9 @@ Clinical AI Assistance | Research intern |  Dec. 2023 – March 2024
 
 
 ## 🎖️ **Achievements**
+
+
+GeoHack 2024 (FarmGenie) | JUl 2024 | Secured 2nd position at finals of GeoHack 2024 with our project- FarmGenie organized by IEEE GRSS Kolkata and SAADRI.
 
 Finalist @YESIST12 | 2024 | Led the winning project (PlogPayouts) at YESIST12 ’24 under Special Track category
 
